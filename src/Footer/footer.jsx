@@ -178,7 +178,7 @@ export default function Footer() {
                   <ul>
                     <li>
                       <a
-                        href="https://chat.whatsapp.com/IzoYNN2fsz35PnzxAzywMU"
+                        href=""
                         className="hover:text-gray-400 block pb-2 text-sm font-semibold"
                       >
                         Blog
@@ -186,7 +186,7 @@ export default function Footer() {
                     </li>
                     <li>
                       <a
-                        href="https://forms.gle/YG2VfugSAaWRCnSE6"
+                        href=""
                         className="hover:text-gray-400 block pb-2 text-sm font-semibold"
                       >
                         Contact Us
@@ -201,7 +201,7 @@ export default function Footer() {
                   <ul>
                     <li>
                       <a
-                        href="https://chat.whatsapp.com/IzoYNN2fsz35PnzxAzywMU"
+                        href=""
                         className="hover:text-gray-400 block pb-2 text-sm font-semibold"
                       >
                         Terms Of Service
@@ -209,7 +209,7 @@ export default function Footer() {
                     </li>
                     <li>
                       <a
-                        href="https://forms.gle/YG2VfugSAaWRCnSE6"
+                        href=""
                         className="hover:text-gray-400 block pb-2 text-sm font-semibold"
                       >
                         Privacy Policy
